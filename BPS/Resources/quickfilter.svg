@@ -1,0 +1,7 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg x="0px" y="0px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 32 32" xml:space="preserve" id="Layer_1">
+  <g id="QuickFilter">
+    <polygon points="0,2 20,2 20,6 12,14 12,24 8,28 8,14 0,6  " fill="#FFB115" class="Yellow" />
+    <path d="M31,14H15c-0.5,0-1,0.5-1,1v16c0,0.5,0.5,1,1,1h16c0.5,0,1-0.5,1-1V15C32,14.5,31.5,14,31,14z M22,28l-5-5   l2-2l3,3l6-6l2,2L22,28z" fill="#039C23" class="Green" />
+  </g>
+</svg>
